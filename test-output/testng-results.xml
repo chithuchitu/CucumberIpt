@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-27T23:16:53 IST" name="Default suite" finished-at="2023-03-27T23:16:59 IST" duration-ms="6758">
+    <groups>
+    </groups>
+    <test started-at="2023-03-27T23:16:53 IST" name="Default test" finished-at="2023-03-27T23:16:59 IST" duration-ms="6758">
+      <class name="com.apitest.SingleUserRepoTest">
+        <test-method signature="getSingleUserWithValidAuth()[pri:1, instance:com.apitest.SingleUserRepoTest@2dc54ad4]" started-at="2023-03-27T23:16:53 IST" name="getSingleUserWithValidAuth" description="This api or valid AUth" finished-at="2023-03-27T23:16:59 IST" duration-ms="6527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSingleUserWithValidAuth -->
+      </class> <!-- com.apitest.SingleUserRepoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
